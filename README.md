@@ -1,3 +1,5 @@
 # Practise Hi i am kiran
 
-i ma in iit madras
+i am in iit madras
+
+hello this is mihir
